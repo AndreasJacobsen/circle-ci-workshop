@@ -15,4 +15,4 @@ jobs:
 
       - store_artifacts:
           path: /code/test-results
-          destionation: prefix
+          destination: prefix
